@@ -1,0 +1,8 @@
+prefix=/home/herakles/Clemson/AuE893Spring21_SreekarMalladi/catkin_ws/install
+
+Name: assignment_02
+Description: Description of assignment_02
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
