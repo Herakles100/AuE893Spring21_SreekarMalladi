@@ -5,16 +5,3 @@ The second script, 'assignment2_olsquare.py' makes the turtlesim follow a square
 ![Screenshot from 2021-01-28 12-01-51](https://user-images.githubusercontent.com/48856045/106172964-676f4700-6161-11eb-8bef-b1b740352e18.png)
 The third script, 'assignment2_clsquare.py' makes the turtlesim follow a square path but by using the go-to-goal function example that is provided in the ROS wiki. It forces the turtlesim to correct its pose and go to the require coordinates. 
 ![Screenshot from 2021-01-28 11-59-50](https://user-images.githubusercontent.com/48856045/106172999-70601880-6161-11eb-9aaa-ad4d7ebba542.png)
-
-x-special/nautilus-clipboard
-copy
-file:///home/herakles/Pictures/Screenshot%20from%202021-01-28%2012-02-19.png
-
-x-special/nautilus-clipboard
-copy
-file:///home/herakles/Pictures/Screenshot%20from%202021-01-28%2012-01-51.png
-
-x-special/nautilus-clipboard
-copy
-file:///home/herakles/Pictures/Screenshot%20from%202021-01-28%2011-59-50.png
-
